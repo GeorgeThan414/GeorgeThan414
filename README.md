@@ -6,7 +6,7 @@
 
 💼 I’m currently working as a **Data Scientist** at the **Centre for Research & Technology Hellas (CERTH)**.  
 
-🌱 My current work focuses on **AI forecasting**, **cloud/edge resource orchestration**, and **privacy-preserving deep learning models**.
+<!-- 🌱 My current work focuses on **AI forecasting**, **cloud/edge resource orchestration**, and **privacy-preserving deep learning models**.-->
 
 ---
 
@@ -14,7 +14,7 @@
 
 You’ll find projects related to:
 - 🔍 Time Series Forecasting  
-- 🧠 Deep Learning (CNNs, VAEs, RNNs)  
+- 🧠 Deep Learning (NNs, CNNs, RNNS, LSTMs, VAEs, TimeSeriesTransformers)  
 - ⚙️ AI-driven Forecasting Systems  
 - 🌤️ Energy systems and predictive modeling
 
