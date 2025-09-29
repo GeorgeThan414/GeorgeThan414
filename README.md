@@ -4,6 +4,8 @@
 
 📕 My thesis was on **Imperfection Detection from Photovoltaic-Panel Electroluminescence Images**, where I explored deep learning methods to identify defects in photovoltaic panels.
 
+🎓 Currently, I am pursuing my Master’s Degree in Artificial Intelligence at **Aristotle University of Thessaloniki**.
+
 💼 I’m currently working as a **Data Scientist** at the **Centre for Research & Technology Hellas (CERTH)**.  
 
 <!-- 🌱 My current work focuses on **AI forecasting**, **cloud/edge resource orchestration**, and **privacy-preserving deep learning models**.-->
