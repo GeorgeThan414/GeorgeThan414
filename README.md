@@ -28,4 +28,4 @@ You’ll find projects related to:
 
 - 📧 Email: geor.thanasoulis@gmail.com  
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/giorgos-thanasoulis-350541281/)  
-- 📄 [View my CV (PDF)](./CV_George_Thanasoulis.pdf)
+- 📄 [View my CV (PDF)](./George Thanasoulis_resume.pdf)
