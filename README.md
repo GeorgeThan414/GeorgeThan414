@@ -27,5 +27,5 @@ You’ll find projects related to:
 ## 📫 Reach Me
 
 - 📧 Email: geor.thanasoulis@gmail.com  
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/giorgos-thanasoulis-350541281/)  
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/george-thanasoulis-350541281/)  
 - 📄 [View my CV (PDF)](./George Thanasoulis_resume.pdf)
